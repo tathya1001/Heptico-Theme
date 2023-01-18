@@ -19,4 +19,3 @@ Paste the following command and press enter to install Heptico Theme in VS Code
 |Background|`#121212`|`18 18 18`|`0 0 0 93`|`0 0 7`|
 |Comments|`#676767`|`103 103 103`|`0 0 0 60`|`0 0 40`|
 
-![alt](https://raw.githubusercontent.com/thecodercoder/codercoder-dark-theme/main/codercoder-dark-html.PNG)
