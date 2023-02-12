@@ -27,7 +27,7 @@ Step 6: Enjoy your new theme!!!
 |Vivid Sky Blue|`#4CCFFF`|`76 207 255`|`70 19 0 0`|`196 100 65`|![Vivid Sky Blue](colours(3).png)|
 |Inchworm Green|`#A6F05F`|`166 240 95`|`31 0 60 6`|`91 83 66`|![Inchworm Green](colours(4).png)|
 |Yellow Crayola|`#FFF387`|`255 243 135`|`0 5 47 0`|`54 100 76`|![Yellow Crayola](colours(5).png)|
-|Deep Saffron|`#FF994C`|`255 153 76`|`0 40 70 0`|`26 100 65`|![Deep Saffron](colours(6).png)|
+|Deep Saffron|`#FF994C`|`255 153 76`|`0 40 70 0`|`26 100 65`|![Deep Saffron](https://github.com/tathya1001/Heptico-Theme/blob/main/Orange.png)|
 |White|`#FFFFFF`|`255 255 255`|`0 0 0 0`|`0 0 100`|![White](colours(9).png)|
 |Background|`#121212`|`18 18 18`|`0 0 0 93`|`0 0 7`|![Background](colours(7).png)|
 |Comments|`#676767`|`103 103 103`|`0 0 0 60`|`0 0 40`|![Comments](colours(8).png)|
