@@ -16,7 +16,7 @@ Step 2: Search for Heptico Theme.\
 Step 3: Press Install (and Reload).\
 Step 4: `ctrl + shift + P` and type `Color Theme`.\
 Step 5: Scroll down to find Heptico Theme from the list and press Enter.\
-Step 5: Enjoy your new theme!!!
+Step 6: Enjoy your new theme!!!
 
 ## **Palette**
 
