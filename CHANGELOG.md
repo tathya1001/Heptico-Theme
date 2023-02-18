@@ -1,5 +1,9 @@
 # **Change Log**
 
+## **Version 1.5.5**
+
+- Improved Description
+
 ## **Version 1.5.4**
 
 - Added Screenshot and Palette in Description
