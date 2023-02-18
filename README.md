@@ -2,7 +2,7 @@
 
 A modern and minimalistic dark theme for VS Code, with subtle contrasts and elegant colors, optimized for coding.
 
-![Screenshot](https://github.com/tathya1001/Heptico-Theme/blob/main/Images/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/tathya1001/Heptico-Theme/main/Images/screenshotcpp.png)
 
 ## **Installation**
 
